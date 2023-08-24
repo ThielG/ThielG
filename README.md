@@ -1,6 +1,6 @@
-### Hello world, my name is Guilherme Thiel! 🙋🏻‍♂️
+# Hello world, my name is Guilherme Thiel! 🙋🏻‍♂️
 
-🇧🇷 Em protuguês:
+#### 🇧🇷 Em protuguês:
 
 📖 Olá! Sou estudante de Análise e Desenvolvimento de Sistemas no terceiro período, apaixonado por tecnologia e desenvolvimento.
 
@@ -8,7 +8,7 @@
 
 📧 Sinta-se à vontade para enviar suas perguntas, comentários ou oportunidades de colaboração para guilhermethiel1@gmail.com.
 
-🇺🇸 In enlish:
+#### 🇺🇸 In enlish:
 
 📖 Hello there! I'm a third-period student of Software Analysis and Development, deeply passionate about technology and coding. 
 
