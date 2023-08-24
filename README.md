@@ -15,3 +15,7 @@
 💼 Currently, my main focus lies in refining my skills in Python and Java, while also delving into the realms of HTML/CSS and Kotlin.
 
 📧 Please feel free to reach out with any questions, comments, or collaboration opportunities to guilhermethiel1@gmail.com. 
+
+##
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
