@@ -8,7 +8,7 @@
 
 📧 Sinta-se à vontade para enviar suas perguntas, comentários ou oportunidades de colaboração para guilhermethiel1@gmail.com.
 
-#### 🇺🇸 In enlish:
+#### 🇺🇸 In english:
 
 📖 Hello there! I'm a third-period student of Software Analysis and Development, deeply passionate about technology and coding. 
 
