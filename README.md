@@ -28,9 +28,5 @@
 
 ##
 
-<a>
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=ThielG&theme=tokyonight&show_icons=true)" />
-</a>
-<a>
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=ThielG&theme=tokyonight&layout=donut-vertica)" />
-</a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThielG&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThielG&theme=tokyonight&layout=donut-vertical)
