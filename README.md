@@ -32,6 +32,6 @@
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThielG&theme=dark&show_icons=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThielG&theme=dark&layout=donut" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThielG&theme=tokyonight&show_icons=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThielG&theme=tokyonight&layout=donut" alt="Top Langs" />
 </div>
