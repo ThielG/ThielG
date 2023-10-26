@@ -38,7 +38,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThielG&theme=vision-friendly-dark&show_icons=true" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThielG&theme=vision-friendly-dark&show_icons=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThielG&theme=vision-friendly-dark&layout=donut" alt="Top Langs" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThielG&theme=vision-friendly-dark&layout=donut" alt="Top Langs" />
 </div>
 
 
