@@ -36,8 +36,10 @@
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThielG&theme=vision-friendly-dark&show_icons=true" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThielG&theme=vision-friendly-dark&show_icons=true" alt="GitHub stats" />
+  <div style="display: inline_block">
+    <img src="https://github-readme-stats.vercel.app/api?username=ThielG&theme=vision-friendly-dark&show_icons=true" alt="GitHub stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThielG&theme=vision-friendly-dark&show_icons=true" alt="GitHub stats" />
+  </div>
 </div>
 
 <div align="center">
