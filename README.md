@@ -36,10 +36,12 @@
 ##
 
 <div align="center">
-  <div style="display: inline_block">
+  <br><p align="centre">
+    <div style="display: inline_block">
     <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ThielG&theme=vision-friendly-dark&show_icons=true" alt="GitHub stats" />
     <img width="424px" src="https://github-readme-streak-stats.herokuapp.com/?user=ThielG&theme=vision-friendly-dark&show_icons=true" alt="GitHub stats" />
-  </div>
+    </div>
+  </br>
 </div>
 
 <div align="center">
