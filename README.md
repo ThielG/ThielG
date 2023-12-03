@@ -48,3 +48,14 @@
 ##
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThielG&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+##
+
+<div align="center">
+  <br><p align="centre">
+    <div style="display: inline_block">
+      <img src=https://github-readme-stats.vercel.app/api/pin/?username=ThielG&theme=vision-friendly-dark&repo=Projeto_Final_Desenvolvimento_Desktop />
+      <img src=https://github-readme-stats.vercel.app/api/pin/?username=ThielG&theme=vision-friendly-dark&repo=Projeto_Final_Programacao_Orientada_a_Objetos_Java />
+    </div>
+  </br>
+</div>
