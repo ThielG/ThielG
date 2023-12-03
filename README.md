@@ -52,10 +52,16 @@
 ##
 
 <div align="center">
-  <br><p align="centre">
-    <div style="display: inline_block">
-      <img src=https://github-readme-stats.vercel.app/api/pin/?username=ThielG&theme=vision-friendly-dark&repo=Projeto_Final_Desenvolvimento_Desktop />(https://github.com/ThielG/Projeto_Final_Desenvolvimento_Desktop)
-      <img src=https://github-readme-stats.vercel.app/api/pin/?username=ThielG&theme=vision-friendly-dark&repo=Projeto_Final_Programacao_Orientada_a_Objetos_Java /> (https://github.com/ThielG/Projeto_Final_Programacao_Orientada_a_Objetos_Java)
+  <br>
+  <p align="center">
+    <div style="display: inline-block;">
+      <a href="https://github.com/ThielG/Projeto_Final_Desenvolvimento_Desktop">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThielG&theme=vision-friendly-dark&repo=Projeto_Final_Desenvolvimento_Desktop" />
+      </a>
+      <a href="https://github.com/ThielG/Projeto_Final_Programacao_Orientada_a_Objetos_Java">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThielG&theme=vision-friendly-dark&repo=Projeto_Final_Programacao_Orientada_a_Objetos_Java" />
+      </a>
     </div>
-  </br>
+  </p>
+  <br>
 </div>
