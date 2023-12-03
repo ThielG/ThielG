@@ -54,8 +54,8 @@
 <div align="center">
   <br><p align="centre">
     <div style="display: inline_block">
-      <img src=https://github-readme-stats.vercel.app/api/pin/?username=ThielG&theme=vision-friendly-dark&repo=Projeto_Final_Desenvolvimento_Desktop />
-      <img src=https://github-readme-stats.vercel.app/api/pin/?username=ThielG&theme=vision-friendly-dark&repo=Projeto_Final_Programacao_Orientada_a_Objetos_Java />
+      <img src=https://github-readme-stats.vercel.app/api/pin/?username=ThielG&theme=vision-friendly-dark&repo=Projeto_Final_Desenvolvimento_Desktop />(https://github.com/ThielG/Projeto_Final_Desenvolvimento_Desktop)
+      <img src=https://github-readme-stats.vercel.app/api/pin/?username=ThielG&theme=vision-friendly-dark&repo=Projeto_Final_Programacao_Orientada_a_Objetos_Java /> (https://github.com/ThielG/Projeto_Final_Programacao_Orientada_a_Objetos_Java)
     </div>
   </br>
 </div>
