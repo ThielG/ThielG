@@ -55,8 +55,8 @@
   <br>
   <p align="center">
     <div style="display: inline-block;">
-      <a href="https://github.com/ThielG/Projeto_Final_Desenvolvimento_Desktop">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThielG&theme=vision-friendly-dark&repo=Projeto_Final_Desenvolvimento_Desktop" />
+      <a href="https://github.com/ThielG/Biblio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThielG&theme=vision-friendly-dark&repo=Biblio" />
       </a>
       <a href="https://github.com/ThielG/Projeto_Final_Programacao_Orientada_a_Objetos_Java">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThielG&theme=vision-friendly-dark&repo=Projeto_Final_Programacao_Orientada_a_Objetos_Java" />
