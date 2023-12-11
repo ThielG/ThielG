@@ -2,19 +2,15 @@
 
 #### 🇧🇷 Em português:
 
-📖 Olá! Sou estudante de Análise e Desenvolvimento de Sistemas no terceiro período, apaixonado por tecnologia e desenvolvimento.
+📖 Olá! Sou estudante de Análise e Desenvolvimento de Sistemas no quarto período, apaixonado por tecnologia e desenvolvimento.
 
-💼 Atualmente, estou focado no aprimoramento das minhas habilidades em Python e Java, além de estar explorando o universo HTML/CSS e Kotlin. 
-
-📧 Sinta-se à vontade para enviar suas perguntas, comentários ou oportunidades de colaboração para guilhermethiel1@gmail.com.
+💼 Atualmente, estou focado no aprimoramento das minhas habilidades em Python e Java, além de estar explorando o universo HTML/CSS, Djando e Kotlin. 
 
 #### 🇺🇸 In english:
 
-📖 Hello there! I'm a third-period student of Software Analysis and Development, deeply passionate about technology and coding. 
+📖 Hello there! I'm a fourth-period student of Software Analysis and Development, deeply passionate about technology and coding. 
 
-💼 Currently, my main focus lies in refining my skills in Python and Java, while also delving into the realms of HTML/CSS and Kotlin.
-
-📧 Please feel free to reach out with any questions, comments, or collaboration opportunities to guilhermethiel1@gmail.com. 
+💼 Currently, my main focus lies in refining my skills in Python and Java, while also delving into the realms of HTML/CSS, Django and Kotlin.
 
 ## 
 
