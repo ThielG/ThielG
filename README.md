@@ -1,12 +1,12 @@
 # Hello world, my name is Guilherme Thiel! 🙋🏻‍♂️
 
-#### 🇧🇷 Em português:
+#### Em português:
 
 📖 Olá! Sou estudante de Análise e Desenvolvimento de Sistemas no quarto período, apaixonado por tecnologia e desenvolvimento.
 
 💼 Atualmente, estou focado no aprimoramento das minhas habilidades em Python e Java, além de estar explorando o universo HTML/CSS, Djando e Kotlin. 
 
-#### 🇺🇸 In english:
+#### In english:
 
 📖 Hello there! I'm a fourth-period student of Software Analysis and Development, deeply passionate about technology and coding. 
 
