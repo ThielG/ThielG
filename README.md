@@ -2,15 +2,15 @@
 
 #### Em português:
 
-📖 Olá! Sou estudante de Análise e Desenvolvimento de Sistemas no quarto período, apaixonado por tecnologia e desenvolvimento.
+* Olá! Sou estudante de Análise e Desenvolvimento de Sistemas no quarto período, apaixonado por tecnologia e desenvolvimento.
 
-💼 Atualmente, estou focado no aprimoramento das minhas habilidades em Python e Java, além de estar explorando o universo HTML/CSS, Djando e Kotlin. 
+* Atualmente, estou focado no aprimoramento das minhas habilidades em Python e Java, além de estar explorando o universo HTML/CSS, Djando e Kotlin. 
 
 #### In english:
 
-📖 Hello there! I'm a fourth-period student of Software Analysis and Development, deeply passionate about technology and coding. 
+* Hello there! I'm a fourth-period student of Software Analysis and Development, deeply passionate about technology and coding. 
 
-💼 Currently, my main focus lies in refining my skills in Python and Java, while also delving into the realms of HTML/CSS, Django and Kotlin.
+* Currently, my main focus lies in refining my skills in Python and Java, while also delving into the realms of HTML/CSS, Django and Kotlin.
 
 ## 
 
@@ -23,9 +23,9 @@
       <img align="center" alt="CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
       <img align="center" alt="kotlin" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
       <img align="center" alt="git" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+      <img align="center" alt="qt" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg">
       <img align="center" alt="figma" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
       <img align="center" alt="canva" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-      <img align="center" alt="qt" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg">
     </div>
   <br>
 </div>
