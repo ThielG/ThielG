@@ -4,13 +4,13 @@
 
 * Olá! Sou estudante de Análise e Desenvolvimento de Sistemas no quarto período, apaixonado por tecnologia e desenvolvimento.
 
-* Atualmente, estou focado no aprimoramento das minhas habilidades em Python e Java, além de estar explorando o universo HTML/CSS, Djando e Kotlin. 
+* Atualmente, estou focado no aprimoramento das minhas habilidades em Python e Java, além de estar explorando o universo HTML/CSS, JavaScript, Django e Kotlin. 
 
 #### In english:
 
 * Hello there! I'm a fourth-period student of Software Analysis and Development, deeply passionate about technology and coding. 
 
-* Currently, my main focus lies in refining my skills in Python and Java, while also delving into the realms of HTML/CSS, Django and Kotlin.
+* Currently, my main focus lies in refining my skills in Python and Java, while also delving into the realms of HTML/CSS, JavaScript, Django and Kotlin.
 
 ## 
 
