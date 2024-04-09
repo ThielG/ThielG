@@ -23,7 +23,7 @@
       <img align="center" alt="CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
       <img align="center" alt="kotlin" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
       <img align="center" alt="git" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-      <img align="center" alt="javascript" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="javascript" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!--       <img align="center" alt="qt" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg"> -->
       <img align="center" alt="figma" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 <!--       <img align="center" alt="canva" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"> -->
