@@ -16,17 +16,17 @@
 
 <div align="center">
   <br><p align="center">
-    <div style="display: inline_block">
-      <img align="center" alt="python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-      <img align="center" alt="java" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-      <img align="center" alt="HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-      <img align="center" alt="CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-      <img align="center" alt="kotlin" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
-      <img align="center" alt="git" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-      <img align="center" alt="c" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-      <img align="center" alt="javascript" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <div style="display: inline_block" gap="10">
+      <img align="center" alt="python" height="44" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+      <img align="center" alt="java" height="44" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+      <img align="center" alt="HTML" height="44" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+      <img align="center" alt="CSS" height="44" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+      <img align="center" alt="kotlin" height="44" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
+      <img align="center" alt="git" height="44" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+      <img align="center" alt="cplusplus" height="44" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
+      <img align="center" alt="javascript" height="44" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <!--       <img align="center" alt="qt" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg"> -->
-      <img align="center" alt="figma" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+      <img align="center" alt="figma" height="44" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 <!--       <img align="center" alt="canva" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"> -->
     </div>
   <br>
