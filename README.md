@@ -8,7 +8,7 @@
 
 #### In english:
 
-* Hello there! I'm a graduate in Software Analysis and Development, deeply passionate about technology and coding. 
+* Hello there! I'm graduate in Software Analysis and Development, deeply passionate about technology and coding. 
 
 * Currently, my main focus lies in refining my skills in Python and Java, while also delving into the realms of HTML/CSS, JavaScript and Flutter.
 
