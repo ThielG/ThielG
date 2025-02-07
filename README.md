@@ -2,13 +2,13 @@
 
 #### Em português:
 
-* Olá! Sou estudante de Análise e Desenvolvimento de Sistemas no quarto período, apaixonado por tecnologia e desenvolvimento.
+* Olá! Sou graduado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento.
 
 * Atualmente, estou focado no aprimoramento das minhas habilidades em Python e Java, além de estar explorando o universo HTML/CSS, JavaScript e Flutter. 
 
 #### In english:
 
-* Hello there! I'm a fourth-period student of Software Analysis and Development, deeply passionate about technology and coding. 
+* Hello there! I'm a graduate in Software Analysis and Development, deeply passionate about technology and coding. 
 
 * Currently, my main focus lies in refining my skills in Python and Java, while also delving into the realms of HTML/CSS, JavaScript and Flutter.
 
